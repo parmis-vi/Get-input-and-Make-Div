@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.all {
+  width: 100%;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+div#demo {
+  margin: 40px auto;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background-color: lightpink;
+  border-radius: 15px;
+  border: unset;
+}
